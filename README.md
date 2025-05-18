@@ -24,7 +24,7 @@ The Chat Application is a real-time, scalable, and secure messaging platform bui
 ## Project Structure
 - `/backend`: Core backend service handling WebSocket connections and message routing.
 - `/auth-backend`: Authentication service managing user signup/login and JWT generation.
-- `/client`: Next.js frontend for the chat interface and user interactions.
+- `/frontend`: Next.js frontend for the chat interface and user interactions.
 - `/db`: MongoDB connection setup and schemas for users and conversations.
 - `/routes`: Express routes for authentication, user management, and message retrieval.
 - `/middleware`: Token verification middleware for securing API endpoints.
