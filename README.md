@@ -1,6 +1,6 @@
-# Chat Application
+# Chatvibe
 
-The Chat Application is a real-time, scalable, and secure messaging platform built with modern web technologies. This project demonstrates a full-stack implementation of a chat system, supporting one-to-one messaging, user authentication, and group messaging capabilities. The application is designed with scalability in mind, utilizing multiple backend servers, Redis for user-server mapping, and MongoDB for persistent message storage. It is containerized using Docker for easy deployment and includes an API Gateway for efficient request routing.
+The Chatvibe is a real-time, scalable, and secure messaging platform built with modern web technologies. This project demonstrates a full-stack implementation of a chat system, supporting one-to-one messaging, user authentication, and group messaging capabilities. The application is designed with scalability in mind, utilizing multiple backend servers, Redis for user-server mapping, and MongoDB for persistent message storage. It is containerized using Docker for easy deployment and includes an API Gateway for efficient request routing.
 
 ## Key Features
 - **Real-Time Messaging**: Leverages WebSocket (via Socket.IO) for seamless, bidirectional communication between clients and servers.
@@ -34,7 +34,7 @@ The Chat Application is a real-time, scalable, and secure messaging platform bui
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/agamswami/Chat-app.git
+   git clone https://github.com/agamswami/Chatvibe.git
    ```
 2. Install dependencies:
    ```bash
